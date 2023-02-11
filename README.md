@@ -1,4 +1,4 @@
-# tic_tac_original
+# X O Game
 
 A new Flutter project.
 
